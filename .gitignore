@@ -1,0 +1,6 @@
+.env
+
+# Javascript
+node_modules/
+
+.idea
