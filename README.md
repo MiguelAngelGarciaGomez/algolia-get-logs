@@ -1,8 +1,8 @@
-# JavaScript Algolia Utilities
+# JavaScript Algolia Utility to get the logs of an Algolia instance
 
-This quickstart demonstrates various usages of the [Algolia JavaScript API Client](https://www.algolia.com/doc/api-client/getting-started/install/javascript/?client=javascript).
+This Node script allows you to get the logs of an Algolia instance. 
 
-## Setting up the quickstart
+## Setting up
 
 ### Prerequisites
 
